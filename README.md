@@ -16,3 +16,5 @@ sqlite3 History.db \
  ORDER BY visit_time DESC
  LIMIT 5000;' -header -csv > safari-history.csv
 ~~~
+
+Taken from https://apple.stackexchange.com/a/322883/496324
